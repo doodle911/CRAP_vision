@@ -10,7 +10,6 @@ chessboard = {
     'f1': {'x': 262.5, 'y': 437.5, 'piece': 'B_W'},
     'g1': {'x': 312.5, 'y': 437.5, 'piece': 'N_W'},
     'h1': {'x': 362.5, 'y': 437.5, 'piece': 'R_W'},
-    # Add entries for all squares, this example only includes the first row for brevity
 }
 
 # Specify the URL of your Flask server
